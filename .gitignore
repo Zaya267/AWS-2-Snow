@@ -1,0 +1,11 @@
+# AWS credentials
+*.env
+*.key
+*.pem
+
+# Snowflake config files
+config.json
+
+# OS files
+.DS_Store
+Thumbs.db
